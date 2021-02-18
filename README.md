@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It has been developed on the concept of hooks.
+for saving state react context has been used.
+it was developed to explore the way to handle state save without the use of redux.
 
 ## Available Scripts
 
